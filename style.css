@@ -45,6 +45,13 @@ section {
     display: flex;
     justify-content: center;
 }
+main {
+    display: flex;
+    height: 75vh;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
 .main__logo {
     padding: 16px;
 }
